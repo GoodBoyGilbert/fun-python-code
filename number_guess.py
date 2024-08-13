@@ -6,5 +6,5 @@ computer_guess = random.randint(0,10)
 
 print(" ")
 
-print(f"You guess: {guess}, the computer's guess:{computer_guess}")
+print(f"Your guess: {guess}, the computer's guess:{computer_guess}")
   
